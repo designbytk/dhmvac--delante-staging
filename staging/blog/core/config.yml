@@ -1,0 +1,224 @@
+backend:
+  # Use netlify identity as backend
+  name: git-gateway
+  branch: main
+  ### enable below lines for github integration ###
+  # name: github
+  # repo: designbytk/dmhvac--go-beyond
+  # branch: static-cms
+media_folder: "src/11ty/_includes/assets/dmhvac_blog"
+public_folder: "assets/dmhvac_blog"
+logo_url: https://res.cloudinary.com/dbtk/image/upload/v1692299539/_clients/dynamic_hvac/cms/corebytk-core-icon.svg
+site_url: https://www.dynamichvac.net/
+display_url: https://www.dynamichvac.net/
+# Please run "npx @staticcms/proxy-server" for local backend
+local_backend: true
+# publish_mode: editorial_workflow
+collections:
+  - label: "Blog A-G"
+    name: "a-g"
+    folder: "src/11ty/posts/a-g"
+    create: true
+    # identifier_field: name
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - widget: datetime
+        label: Publish Date
+        name: date
+        format: yyyy-MM-dd
+        time_format: false
+      - { label: "Body", name: "body", widget: "markdown" }
+      - widget: select
+        label: "Category"
+        name: "categories"
+        multiple: false
+        create: true
+        options: [ 
+            { "label": "General", "value": "general" },
+            { "label": "Water Heater Service", "value": "water-heater-service" },
+            { "label": "Heating Service", "value": "heating-service" },
+            { "label": "Geothermal Service", "value": "geothermal-service" },
+            { "label": "Indoor Air Quality Service", "value": "indoor-air-quality-service" },
+            { "label": "Air Conditioning Service", "value": "air-conditioning-service" },
+            { "label": "Commercial HVAC", "value": "commercial-hvac" },
+            { "label": "Community Involvement", "value": "community-involvement" },
+            { "label": "Pool Heater", "value": "pool-heater" },
+            { "label": "Plumbing Service", "value": "plumbing-service" },
+            { "label": "Energy Savings", "value": "energy-savings" },
+            { "label": "Water Line Service", "value": "water-line-service" },
+            { "label": "Heat Pump Service", "value": "heat-pump-service" },
+            { "label": "Inspections", "value": "inspections" },
+            { "label": "Heating Services", "value": "heating-services" }
+          ]
+      - widget: list
+        label: "Tags"
+        name: "tags"
+        multiple: true
+        create: true
+  - label: "Blog H-O"
+    name: "h-o"
+    folder: "src/11ty/posts/h-o"
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - widget: datetime
+        label: Publish Date
+        name: date
+        format: yyyy-MM-dd
+        time_format: false
+      - { label: "Body", name: "body", widget: "markdown" }
+      - widget: select
+        label: "Category"
+        name: "categories"
+        multiple: false
+        create: true
+        options: [ 
+            { "label": "General", "value": "general" },
+            { "label": "Water Heater Service", "value": "water-heater-service" },
+            { "label": "Heating Service", "value": "heating-service" },
+            { "label": "Geothermal Service", "value": "geothermal-service" },
+            { "label": "Indoor Air Quality Service", "value": "indoor-air-quality-service" },
+            { "label": "Air Conditioning Service", "value": "air-conditioning-service" },
+            { "label": "Commercial HVAC", "value": "commercial-hvac" },
+            { "label": "Community Involvement", "value": "community-involvement" },
+            { "label": "Pool Heater", "value": "pool-heater" },
+            { "label": "Plumbing Service", "value": "plumbing-service" },
+            { "label": "Energy Savings", "value": "energy-savings" },
+            { "label": "Water Line Service", "value": "water-line-service" },
+            { "label": "Heat Pump Service", "value": "heat-pump-service" },
+            { "label": "Inspections", "value": "inspections" },
+            { "label": "Heating Services", "value": "heating-services" }
+          ]
+      - widget: list
+        label: "Tags"
+        name: "tags"
+        multiple: true
+        create: true
+  - label: "Blog Numbers"
+    name: "num"
+    folder: "src/11ty/posts/num"
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - widget: datetime
+        label: Publish Date
+        name: date
+        format: yyyy-MM-dd
+        time_format: false
+      - { label: "Body", name: "body", widget: "markdown" }
+      - widget: select
+        label: "Category"
+        name: "categories"
+        multiple: false
+        create: true
+        options: [ 
+            { "label": "General", "value": "general" },
+            { "label": "Water Heater Service", "value": "water-heater-service" },
+            { "label": "Heating Service", "value": "heating-service" },
+            { "label": "Geothermal Service", "value": "geothermal-service" },
+            { "label": "Indoor Air Quality Service", "value": "indoor-air-quality-service" },
+            { "label": "Air Conditioning Service", "value": "air-conditioning-service" },
+            { "label": "Commercial HVAC", "value": "commercial-hvac" },
+            { "label": "Community Involvement", "value": "community-involvement" },
+            { "label": "Pool Heater", "value": "pool-heater" },
+            { "label": "Plumbing Service", "value": "plumbing-service" },
+            { "label": "Energy Savings", "value": "energy-savings" },
+            { "label": "Water Line Service", "value": "water-line-service" },
+            { "label": "Heat Pump Service", "value": "heat-pump-service" },
+            { "label": "Inspections", "value": "inspections" },
+            { "label": "Heating Services", "value": "heating-services" }
+          ]
+      - widget: list
+        label: "Tags"
+        name: "tags"
+        multiple: true
+        create: true
+  - label: "Blog p-u"
+    name: "p-u"
+    folder: "src/11ty/posts/p-u"
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - widget: datetime
+        label: Publish Date
+        name: date
+        format: yyyy-MM-dd
+        time_format: false
+      - { label: "Body", name: "body", widget: "markdown" }
+      - widget: select
+        label: "Category"
+        name: "categories"
+        multiple: false
+        create: true
+        options: [ 
+            { "label": "General", "value": "general" },
+            { "label": "Water Heater Service", "value": "water-heater-service" },
+            { "label": "Heating Service", "value": "heating-service" },
+            { "label": "Geothermal Service", "value": "geothermal-service" },
+            { "label": "Indoor Air Quality Service", "value": "indoor-air-quality-service" },
+            { "label": "Air Conditioning Service", "value": "air-conditioning-service" },
+            { "label": "Commercial HVAC", "value": "commercial-hvac" },
+            { "label": "Community Involvement", "value": "community-involvement" },
+            { "label": "Pool Heater", "value": "pool-heater" },
+            { "label": "Plumbing Service", "value": "plumbing-service" },
+            { "label": "Energy Savings", "value": "energy-savings" },
+            { "label": "Water Line Service", "value": "water-line-service" },
+            { "label": "Heat Pump Service", "value": "heat-pump-service" },
+            { "label": "Inspections", "value": "inspections" },
+            { "label": "Heating Services", "value": "heating-services" }
+          ]
+      - widget: list
+        label: "Tags"
+        name: "tags"
+        multiple: true
+        create: true
+  - label: "Blog V-Z"
+    name: "v-z"
+    folder: "src/11ty/posts/v-z"
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - widget: datetime
+        label: Publish Date
+        name: date
+        format: yyyy-MM-dd
+        time_format: false
+      - { label: "Body", name: "body", widget: "markdown" }
+      - widget: select
+        label: "Category"
+        name: "categories"
+        multiple: false
+        create: true
+        options: [ 
+            { "label": "General", "value": "general" },
+            { "label": "Water Heater Service", "value": "water-heater-service" },
+            { "label": "Heating Service", "value": "heating-service" },
+            { "label": "Geothermal Service", "value": "geothermal-service" },
+            { "label": "Indoor Air Quality Service", "value": "indoor-air-quality-service" },
+            { "label": "Air Conditioning Service", "value": "air-conditioning-service" },
+            { "label": "Commercial HVAC", "value": "commercial-hvac" },
+            { "label": "Community Involvement", "value": "community-involvement" },
+            { "label": "Pool Heater", "value": "pool-heater" },
+            { "label": "Plumbing Service", "value": "plumbing-service" },
+            { "label": "Energy Savings", "value": "energy-savings" },
+            { "label": "Water Line Service", "value": "water-line-service" },
+            { "label": "Heat Pump Service", "value": "heat-pump-service" },
+            { "label": "Inspections", "value": "inspections" },
+            { "label": "Heating Services", "value": "heating-services" }
+          ]
+      - widget: list
+        label: "Tags"
+        name: "tags"
+        multiple: true
+        create: true
+ 

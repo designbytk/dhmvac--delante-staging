@@ -1,0 +1,1073 @@
+[
+  {
+    "city": "Ansonia",
+    "state": "CT",
+    "zip": "06401",
+    "lat": 41.3421,
+    "lon": -73.0717
+  },
+  {
+    "city": "Barkhamsted",
+    "state": "CT",
+    "zip": "06063",
+    "lat": 41.9394,
+    "lon": -72.9775
+  },
+  {
+    "city": "Beacon Falls",
+    "state": "CT",
+    "zip": "06403",
+    "lat": 41.4364,
+    "lon": -73.065
+  },
+  {
+    "city": "Bethany",
+    "state": "CT",
+    "zip": "06524",
+    "lat": 41.4128,
+    "lon": -72.9928
+  },
+  {
+    "city": "Bethel",
+    "state": "CT",
+    "zip": "06801",
+    "lat": 41.3825,
+    "lon": -73.4014
+  },
+  {
+    "city": "Bethlehem",
+    "state": "CT",
+    "zip": "06751",
+    "lat": 41.6411,
+    "lon": -73.2128
+  },
+  {
+    "city": "Bloomfield",
+    "state": "CT",
+    "zip": "06002",
+    "lat": 41.8394,
+    "lon": -72.7412
+  },
+  {
+    "city": "Branford",
+    "state": "CT",
+    "zip": "06405",
+    "lat": 41.2783,
+    "lon": -72.7963
+  },
+  {
+    "city": "Bridgeport",
+    "state": "CT",
+    "zip": "06604",
+    "lat": 41.1807,
+    "lon": -73.193
+  },
+  {
+    "city": "Bridgeport",
+    "state": "CT",
+    "zip": "06605",
+    "lat": 41.1679,
+    "lon": -73.2165
+  },
+  {
+    "city": "Bridgeport",
+    "state": "CT",
+    "zip": "06606",
+    "lat": 41.213,
+    "lon": -73.2114
+  },
+  {
+    "city": "Bridgeport",
+    "state": "CT",
+    "zip": "06607",
+    "lat": 41.179,
+    "lon": -73.1645
+  },
+  {
+    "city": "Bridgeport",
+    "state": "CT",
+    "zip": "06608",
+    "lat": 41.188,
+    "lon": -73.1787
+  },
+  {
+    "city": "Bridgeport",
+    "state": "CT",
+    "zip": "06610",
+    "lat": 41.202,
+    "lon": -73.167
+  },
+  {
+    "city": "Bridgeport",
+    "state": "CT",
+    "zip": "06650",
+    "lat": 41.1757,
+    "lon": -73.1988
+  },
+  {
+    "city": "Bridgeport",
+    "state": "CT",
+    "zip": "06673",
+    "lat": 41.1843,
+    "lon": -73.1481
+  },
+  {
+    "city": "Bridgeport",
+    "state": "CT",
+    "zip": "06699",
+    "lat": 41.1912,
+    "lon": -73.138
+  },
+  {
+    "city": "Brookfield",
+    "state": "CT",
+    "zip": "06804",
+    "lat": 41.4669,
+    "lon": -73.3955
+  },
+  {
+    "city": "Canton",
+    "state": "CT",
+    "zip": "06019",
+    "lat": 41.8466,
+    "lon": -72.8968
+  },
+  {
+    "city": "Canton",
+    "state": "CT",
+    "zip": "06020",
+    "lat": 41.8494,
+    "lon": -72.9227
+  },
+  {
+    "city": "Canton",
+    "state": "CT",
+    "zip": "06059",
+    "lat": 41.8982,
+    "lon": -72.8926
+  },
+  {
+    "city": "Cheshire",
+    "state": "CT",
+    "zip": "06411",
+    "lat": 41.4997,
+    "lon": -72.9018
+  },
+  {
+    "city": "Cheshire",
+    "state": "CT",
+    "zip": "06410",
+    "lat": 41.5042,
+    "lon": -72.9064
+  },
+  {
+    "city": "Cheshire",
+    "state": "CT",
+    "zip": "06408",
+    "lat": 41.5482,
+    "lon": -72.9232
+  },
+  {
+    "city": "Cromwell",
+    "state": "CT",
+    "zip": "06416",
+    "lat": 41.6097,
+    "lon": -72.6633
+  },
+  {
+    "city": "Danbury",
+    "state": "CT",
+    "zip": "06814",
+    "lat": 41.3773,
+    "lon": -73.4881
+  },
+  {
+    "city": "Danbury",
+    "state": "CT",
+    "zip": "06816",
+    "lat": 41.4104,
+    "lon": -73.407
+  },
+  {
+    "city": "Danbury",
+    "state": "CT",
+    "zip": "06817",
+    "lat": 41.3964,
+    "lon": -73.456
+  },
+  {
+    "city": "Derby",
+    "state": "CT",
+    "zip": "06418",
+    "lat": 41.3819,
+    "lon": -73.0797
+  },
+  {
+    "city": "Durham",
+    "state": "CT",
+    "zip": "06422",
+    "lat": 41.4595,
+    "lon": -72.6905
+  },
+  {
+    "city": "East Granby",
+    "state": "CT",
+    "zip": "06026",
+    "lat": 41.9343,
+    "lon": -72.7467
+  },
+  {
+    "city": "East Hartford",
+    "state": "CT",
+    "zip": "06108",
+    "lat": 41.7767,
+    "lon": -72.6229
+  },
+  {
+    "city": "East Hartford",
+    "state": "CT",
+    "zip": "06118",
+    "lat": 41.7486,
+    "lon": -72.6099
+  },
+  {
+    "city": "Fairfield",
+    "state": "CT",
+    "zip": "06824",
+    "lat": 41.169,
+    "lon": -73.2651
+  },
+  {
+    "city": "Fairfield",
+    "state": "CT",
+    "zip": "06825",
+    "lat": 41.1949,
+    "lon": -73.2406
+  },
+  {
+    "city": "Fairfield",
+    "state": "CT",
+    "zip": "06826",
+    "lat": -23.6606741,
+    "lon": -46.8047036
+  },
+  {
+    "city": "Glastonbury",
+    "state": "CT",
+    "zip": "06033",
+    "lat": 41.7071,
+    "lon": -72.5633
+  },
+  {
+    "city": "Goshen",
+    "state": "CT",
+    "zip": "06756",
+    "lat": 41.845,
+    "lon": -73.2292
+  },
+  {
+    "city": "Granby",
+    "state": "CT",
+    "zip": "06035",
+    "lat": 41.9534,
+    "lon": -72.7968
+  },
+  {
+    "city": "Hamden",
+    "state": "CT",
+    "zip": "06514",
+    "lat": 41.3648,
+    "lon": -72.9369
+  },
+  {
+    "city": "Hartland",
+    "state": "CT",
+    "zip": "06027",
+    "lat": 42.0043,
+    "lon": -72.9364
+  },
+  {
+    "city": "Harwinton",
+    "state": "CT",
+    "zip": "06791",
+    "lat": 41.7683,
+    "lon": -73.0705
+  },
+  {
+    "city": "Hebron",
+    "state": "CT",
+    "zip": "06248",
+    "lat": 41.6851,
+    "lon": -72.4061
+  },
+  {
+    "city": "Litchfield",
+    "state": "CT",
+    "zip": "06759",
+    "lat": 41.7502,
+    "lon": -73.1891
+  },
+  {
+    "city": "Marlborough",
+    "state": "CT",
+    "zip": "06447",
+    "lat": 41.6411,
+    "lon": -72.4581
+  },
+  {
+    "city": "Meriden",
+    "state": "CT",
+    "zip": "06450",
+    "lat": 41.5339,
+    "lon": -72.7998
+  },
+  {
+    "city": "Meriden",
+    "state": "CT",
+    "zip": "06451",
+    "lat": 41.5359,
+    "lon": -72.8209
+  },
+  {
+    "city": "Meriden",
+    "state": "CT",
+    "zip": "06454",
+    "lat": 41.5414,
+    "lon": -72.8043
+  },
+  {
+    "city": "Middlebury",
+    "state": "CT",
+    "zip": "06762",
+    "lat": 41.5281,
+    "lon": -73.1192
+  },
+  {
+    "city": "Middlefield",
+    "state": "CT",
+    "zip": "06455",
+    "lat": 41.5178,
+    "lon": -72.7175
+  },
+  {
+    "city": "Middletown",
+    "state": "CT",
+    "zip": "06457",
+    "lat": 41.549,
+    "lon": -72.6635
+  },
+  {
+    "city": "Middletown",
+    "state": "CT",
+    "zip": "06459",
+    "lat": 41.5511,
+    "lon": -72.6518
+  },
+  {
+    "city": "Milford",
+    "state": "CT",
+    "zip": "06960",
+    "lat": 38.2186412,
+    "lon": -5.9515399
+  },
+  {
+    "city": "Monroe",
+    "state": "CT",
+    "zip": "06486",
+    "lat": 39.0668196,
+    "lon": -6.5036433
+  },
+  {
+    "city": "Morris",
+    "state": "CT",
+    "zip": "06763",
+    "lat": 41.6877,
+    "lon": -73.1981
+  },
+  {
+    "city": "Naugatuck",
+    "state": "CT",
+    "zip": "06770",
+    "lat": 41.492,
+    "lon": -73.0486
+  },
+  {
+    "city": "New Hartford",
+    "state": "CT",
+    "zip": "06057",
+    "lat": 41.855,
+    "lon": -73.0121
+  },
+  {
+    "city": "Norfolk",
+    "state": "CT",
+    "zip": "06058",
+    "lat": 41.9903,
+    "lon": -73.1973
+  },
+  {
+    "city": "North Branford",
+    "state": "CT",
+    "zip": "06471",
+    "lat": 41.3411,
+    "lon": -72.7763
+  },
+  {
+    "city": "North Haven",
+    "state": "CT",
+    "zip": "06473",
+    "lat": 41.3815,
+    "lon": -72.8616
+  },
+  {
+    "city": "Orange",
+    "state": "CT",
+    "zip": "06477",
+    "lat": 41.2821,
+    "lon": -73.0258
+  },
+  {
+    "city": "Oxford",
+    "state": "CT",
+    "zip": "06478",
+    "lat": 41.4267,
+    "lon": -73.1337
+  },
+  {
+    "city": "Plymouth",
+    "state": "CT",
+    "zip": "06782",
+    "lat": 41.6641,
+    "lon": -73.0499
+  },
+  {
+    "city": "Portland",
+    "state": "CT",
+    "zip": "06480",
+    "lat": 41.5819,
+    "lon": -72.6186
+  },
+  {
+    "city": "Prospect",
+    "state": "CT",
+    "zip": "06712",
+    "lat": 41.4952,
+    "lon": -72.9742
+  },
+  {
+    "city": "Rocky Hill",
+    "state": "CT",
+    "zip": "06067",
+    "lat": 41.6625,
+    "lon": -72.6688
+  },
+  {
+    "city": "Seymour",
+    "state": "CT",
+    "zip": "06483",
+    "lat": 41.3815,
+    "lon": -73.0858
+  },
+  {
+    "city": "Shelton",
+    "state": "CT",
+    "zip": "06484",
+    "lat": 41.3051,
+    "lon": -73.1348
+  },
+  {
+    "city": "Simsbury",
+    "state": "CT",
+    "zip": "06070",
+    "lat": 41.8767,
+    "lon": -72.8227
+  },
+  {
+    "city": "Simsbury",
+    "state": "CT",
+    "zip": "06092",
+    "lat": 41.8701,
+    "lon": -72.8618
+  },
+  {
+    "city": "Southbury",
+    "state": "CT",
+    "zip": "06488",
+    "lat": 41.4727,
+    "lon": -73.22
+  },
+  {
+    "city": "Stratford",
+    "state": "CT",
+    "zip": "06614",
+    "lat": 41.2283,
+    "lon": -73.1308
+  },
+  {
+    "city": "Stratford",
+    "state": "CT",
+    "zip": "06615",
+    "lat": 41.185,
+    "lon": -73.1402
+  },
+  {
+    "city": "Thomaston",
+    "state": "CT",
+    "zip": "06787",
+    "lat": 41.6728,
+    "lon": -73.0824
+  },
+  {
+    "city": "Trumbull",
+    "state": "CT",
+    "zip": "06611",
+    "lat": 41.2556,
+    "lon": -73.2088
+  },
+  {
+    "city": "Wallingford",
+    "state": "CT",
+    "zip": "06492",
+    "lat": 41.4599,
+    "lon": -72.818
+  },
+  {
+    "city": "Wallingford",
+    "state": "CT",
+    "zip": "06493",
+    "lat": 41.4868,
+    "lon": -72.8228
+  },
+  {
+    "city": "Wallingford",
+    "state": "CT",
+    "zip": "06494",
+    "lat": 41.4696,
+    "lon": -72.8181
+  },
+  {
+    "city": "Wallingford",
+    "state": "CT",
+    "zip": "06495",
+    "lat": 41.4588,
+    "lon": -72.8267
+  },
+  {
+    "city": "Waterbury",
+    "state": "CT",
+    "zip": "06706",
+    "lat": 41.5354,
+    "lon": -73.0278
+  },
+  {
+    "city": "Waterbury",
+    "state": "CT",
+    "zip": "06708",
+    "lat": 41.5529,
+    "lon": -73.0665
+  },
+  {
+    "city": "Waterbury",
+    "state": "CT",
+    "zip": "06710",
+    "lat": 41.568,
+    "lon": -73.0454
+  },
+  {
+    "city": "Waterbury",
+    "state": "CT",
+    "zip": "06749",
+    "lat": 41.505,
+    "lon": -73.1524
+  },
+  {
+    "city": "Waterbury",
+    "state": "CT",
+    "zip": "06701",
+    "lat": 41.5588,
+    "lon": -73.0522
+  },
+  {
+    "city": "Waterbury",
+    "state": "CT",
+    "zip": "06702",
+    "lat": 41.5553,
+    "lon": -73.0396
+  },
+  {
+    "city": "Waterbury",
+    "state": "CT",
+    "zip": "06704",
+    "lat": 41.5789,
+    "lon": -73.0327
+  },
+  {
+    "city": "Waterbury",
+    "state": "CT",
+    "zip": "06705",
+    "lat": 41.5496,
+    "lon": -72.9959
+  },
+  {
+    "city": "Watertown",
+    "state": "CT",
+    "zip": "06795",
+    "lat": 41.6058,
+    "lon": -73.1257
+  },
+  {
+    "city": "West Haven",
+    "state": "CT",
+    "zip": "06516",
+    "lat": 41.2695,
+    "lon": -72.9643
+  },
+  {
+    "city": "Windsor",
+    "state": "CT",
+    "zip": "06095",
+    "lat": 41.8638,
+    "lon": -72.6685
+  },
+  {
+    "city": "Windsor",
+    "state": "CT",
+    "zip": "06006",
+    "lat": 41.8542,
+    "lon": -72.644
+  },
+  {
+    "city": "Wolcott",
+    "state": "CT",
+    "zip": "06716",
+    "lat": 41.5918,
+    "lon": -72.9727
+  },
+  {
+    "city": "Woodbridge",
+    "state": "CT",
+    "zip": "06525",
+    "lat": 41.3605,
+    "lon": -73.0128
+  },
+  {
+    "city": "Woodbury",
+    "state": "CT",
+    "zip": "06798",
+    "lat": 41.5559,
+    "lon": -73.2032
+  },
+  {
+    "city": "Burlington",
+    "state": "CT",
+    "zip": "06013",
+    "lat": 41.7602,
+    "lon": -72.9507
+  },
+  {
+    "city": "Bristol",
+    "state": "CT",
+    "zip": "06010",
+    "lat": 41.6797,
+    "lon": -72.9314
+  },
+  {
+    "city": "Burlington",
+    "state": "CT",
+    "zip": "06013",
+    "lat": 41.7602,
+    "lon": -72.9507
+  },
+  {
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06540",
+    "lat": 41.31,
+    "lon": -72.9215
+  },
+  {
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06538",
+    "lat": 41.4322,
+    "lon": -72.9093
+  },
+  {
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06537",
+    "lat": 41.4314,
+    "lon": -72.9105
+  },
+  {
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06519",
+    "lat": 41.295,
+    "lon": -72.9387
+  },
+  {
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06515",
+    "lat": 41.3276,
+    "lon": -72.9669
+  },
+  {
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06513",
+    "lat": 41.3157,
+    "lon": -72.8706
+  },
+  {
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06511",
+    "lat": 41.327,
+    "lon": -72.9404
+  },
+  {
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "06510",
+    "lat": 41.3106,
+    "lon": -72.9229
+  },
+  {
+    "city": "Berlin",
+    "state": "CT",
+    "zip": "06037",
+    "lat": 41.6215,
+    "lon": -72.7675
+  },
+  {
+    "city": "Berlin",
+    "state": "CT",
+    "zip": "06023",
+    "lat": 41.6159,
+    "lon": -72.7178
+  },
+  {
+    "city": "Farmington",
+    "state": "CT",
+    "zip": "06085",
+    "lat": 41.7524,
+    "lon": -72.8929
+  },
+  {
+    "city": "Farmington",
+    "state": "CT",
+    "zip": "06030",
+    "lat": 41.7118,
+    "lon": -72.8393
+  },
+  {
+    "city": "Farmington",
+    "state": "CT",
+    "zip": "06034",
+    "lat": 41.7089,
+    "lon": -72.8735
+  },
+  {
+    "city": "Farmington",
+    "state": "CT",
+    "zip": "06032",
+    "lat": 41.7258,
+    "lon": -72.836
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06199",
+    "lat": 41.9268,
+    "lon": -72.6544
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06183",
+    "lat": 41.764,
+    "lon": -72.686
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06180",
+    "lat": 41.7576,
+    "lon": -72.7647
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06176",
+    "lat": 41.7684,
+    "lon": -72.6692
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06167",
+    "lat": 41.7683,
+    "lon": -72.6829
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06161",
+    "lat": 41.7011,
+    "lon": -72.6675
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06160",
+    "lat": 41.7715,
+    "lon": -72.7078
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06156",
+    "lat": 41.7589,
+    "lon": -72.7321
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06155",
+    "lat": 41.7572,
+    "lon": -72.7436
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06154",
+    "lat": 41.7731,
+    "lon": -72.7071
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06153",
+    "lat": 41.6881,
+    "lon": -72.7289
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06152",
+    "lat": 41.7571,
+    "lon": -72.6886
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06105",
+    "lat": 41.7698,
+    "lon": -72.6991
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06103",
+    "lat": 41.7679,
+    "lon": -72.6748
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06151",
+    "lat": 41.7663,
+    "lon": -72.6731
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06112",
+    "lat": 41.7944,
+    "lon": -72.6964
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06150",
+    "lat": 41.7657,
+    "lon": -72.6752
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06106",
+    "lat": 41.7467,
+    "lon": -72.6963
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06101",
+    "lat": 41.7882,
+    "lon": -72.6657
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06114",
+    "lat": 41.7411,
+    "lon": -72.6691
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06120",
+    "lat": 41.7826,
+    "lon": -72.6719
+  },
+  {
+    "city": "Newington",
+    "state": "CT",
+    "zip": "06111",
+    "lat": 41.6886,
+    "lon": -72.7291
+  },
+  {
+    "city": "Newington",
+    "state": "CT",
+    "zip": "06131",
+    "lat": 41.6887,
+    "lon": -72.7298
+  },
+  {
+    "city": "Plainville",
+    "state": "CT",
+    "zip": "06062",
+    "lat": 41.67,
+    "lon": -72.8648
+  },
+  {
+    "city": "Southington",
+    "state": "CT",
+    "zip": "06467",
+    "lat": 41.5668,
+    "lon": -72.9039
+  },
+  {
+    "city": "Southington",
+    "state": "CT",
+    "zip": "06479",
+    "lat": 41.5817,
+    "lon": -72.8979
+  },
+  {
+    "city": "Southington",
+    "state": "CT",
+    "zip": "06489",
+    "lat": 41.6075,
+    "lon": -72.8704
+  },
+  {
+    "city": "West Hartford",
+    "state": "CT",
+    "zip": "06110",
+    "lat": 41.7329,
+    "lon": -72.736
+  },
+  {
+    "city": "West Hartford",
+    "state": "CT",
+    "zip": "06107",
+    "lat": 41.7565,
+    "lon": -72.7588
+  },
+  {
+    "city": "West Hartford",
+    "state": "CT",
+    "zip": "06117",
+    "lat": 41.7905,
+    "lon": -72.753
+  },
+  {
+    "city": "West Hartford",
+    "state": "CT",
+    "zip": "06119",
+    "lat": 41.7608,
+    "lon": -72.7291
+  },
+  {
+    "city": "West Hartford",
+    "state": "CT",
+    "zip": "06127",
+    "lat": 41.7667,
+    "lon": -72.6823
+  },
+  {
+    "city": "West Hartford",
+    "state": "CT",
+    "zip": "06133",
+    "lat": 41.7532,
+    "lon": -72.704
+  },
+  {
+    "city": "West Hartford",
+    "state": "CT",
+    "zip": "06137",
+    "lat": 41.5845,
+    "lon": -72.8653
+  },
+  {
+    "city": "Wethersfield",
+    "state": "CT",
+    "zip": "06129",
+    "lat": 41.7086,
+    "lon": -72.6598
+  },
+  {
+    "city": "Wethersfield",
+    "state": "CT",
+    "zip": "06109",
+    "lat": 41.7025,
+    "lon": -72.667
+  },
+  {
+    "city": "Avon",
+    "state": "CT",
+    "zip": "06001",
+    "lat": 41.794,
+    "lon": -72.86
+  },
+  {
+    "city": "New Britain",
+    "state": "CT",
+    "zip": "06050",
+    "lat": 41.6736,
+    "lon": -72.7788
+  },
+  {
+    "city": "New Britain",
+    "state": "CT",
+    "zip": "06051",
+    "lat": 41.6624,
+    "lon": -72.7704
+  },
+  {
+    "city": "New Britain",
+    "state": "CT",
+    "zip": "06052",
+    "lat": 41.6578,
+    "lon": -72.8029
+  },
+  {
+    "city": "New Britain",
+    "state": "CT",
+    "zip": "06053",
+    "lat": 41.6846,
+    "lon": -72.7904
+  },
+  {
+    "city": "Torrington",
+    "state": "CT",
+    "zip": "06790",
+    "lat": 41.8128,
+    "lon": -73.1207
+  }
+]

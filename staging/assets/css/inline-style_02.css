@@ -1,0 +1,268 @@
+*,
+:after,
+:before {
+  box-sizing: border-box
+}
+
+b {
+  font-weight: bolder
+}
+
+.alert a {
+  color: #eb9730;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects
+}
+
+.alert a:hover {
+  color: #09728d;
+  text-decoration: underline
+}
+
+button {
+  border-radius: 0
+}
+
+button:focus {
+  outline: 1px dotted;
+  outline: 5px auto -webkit-focus-ring-color
+}
+
+button {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit
+}
+
+button {
+  overflow: visible
+}
+
+button {
+  text-transform: none
+}
+
+button,
+html [type=button] {
+  -webkit-appearance: button;
+  appearance: button
+}
+
+[type=button]::-moz-focus-inner,
+button::-moz-focus-inner {
+  padding: 0;
+  border-style: none
+}
+
+.secondary-tools ul li:first-child {
+  display: block !important;
+  /* margin-bottom:.8rem */
+}
+
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 1px solid transparent;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .25rem;
+  transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+  padding: .8rem 1.2rem;
+  text-transform: uppercase;
+  width: 100%
+}
+
+@media screen and (prefers-reduced-motion:reduce) {
+  .btn {
+    transition: none
+  }
+}
+
+.btn:focus,
+.btn:hover {
+  text-decoration: none
+}
+
+.btn:focus {
+  outline: 0;
+  box-shadow: 0 0 0 .2rem rgba(13, 173, 213, .25)
+}
+
+.btn:disabled {
+  opacity: .65
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #eb9830;
+  border-color: #eb9830
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #0b90b1;
+  border-color: #0a86a5
+}
+
+.btn-primary:focus {
+  box-shadow: 0 0 0 .2rem rgba(13, 173, 213, .5)
+}
+
+.btn-primary:disabled {
+  color: #fff;
+  background-color: #0dadd5;
+  border-color: #0dadd5
+}
+
+.btn-sm {
+  padding: .25rem .5rem;
+  font-size: .875rem;
+  line-height: 1.5;
+  border-radius: .2rem
+}
+
+.alert {
+  padding: .75rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+  border-radius: .25rem;
+  font-size: 1.25rem;
+  line-height: 1.5
+}
+
+.text-center {
+  text-align: center !important
+}
+
+.alert {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  margin: 0 !important;
+  z-index: 999;
+  opacity: 0;
+  border-radius: 0;
+  transform: translateY(100%);
+  transition: all .5s ease-out;
+  color: #ecf0f1;
+  background-color: #c2170d
+}
+
+.alert.show {
+  opacity: 1;
+  transform: translateY(0);
+  transition-delay: 1s
+}
+
+.quote-modal {
+  background-color: rgba(235, 152, 48, .9);
+  display: none;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 2rem;
+  transition: all .3s;
+  overflow: auto;
+  color: #fff;
+  align-items: center
+}
+
+.quote-modal.show {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  z-index: 9999
+}
+
+.modal-container {
+  margin: 0 auto;
+  background-color: #ecf0f1;
+  padding: 1.5rem;
+  min-height: 50vh;
+  border-radius: 1rem;
+  display: flex;
+  flex-wrap: nowrap;
+  position: relative;
+  overflow-y: scroll;
+  flex-direction: column
+}
+
+.modal-container .modal-header {
+  text-align: center;
+  font-family: Halant;
+  width: 100%;
+  color: #26587b;
+  font-weight: 700;
+  line-height: 1.15em;
+  margin: 2em 0 .7em;
+  font-size: 1rem;
+  align-self: center
+}
+
+.modal-container div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: .8rem;
+  width: 100%
+}
+
+.modal-container div img {
+  width: 100%
+}
+
+.modal-container .small {
+  font-size: .7rem;
+  color: #999
+}
+
+.close-btn {
+  font-size: 28px;
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+  height: 36px;
+  width: 36px;
+  line-height: 32px;
+  background: rgba(0, 0, 0, .2);
+  border-radius: 50%;
+  color: #888;
+  text-align: center;
+  cursor: pointer;
+  z-index: 7999;
+  opacity: .7
+}
+
+.alert {
+  margin-top: 1rem;
+  background-color: var(--card-content, #444);
+  border-radius: 8px;
+  text-align: left;
+  padding: 1rem;
+  position: relative
+}
+
+.alert .close {
+  position: absolute;
+  top: .5rem;
+  right: .5rem;
+  font-size: 1.5rem;
+  border: 0;
+  border-radius: 6px;
+  padding: .1rem .5rem .5rem .5rem;
+  background-color: rgba(255, 255, 255, .2);
+  color: var(--card-content, #444);
+  line-height: 1
+}

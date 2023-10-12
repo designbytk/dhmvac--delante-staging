@@ -1,0 +1,183 @@
+.banner-slide {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo-txt {
+  text-align: center
+}
+
+.ims-is-scrolled .logo-txt {
+  display: none
+}
+
+.ims-is-scrolled .services-tagline {
+  display: none
+}
+
+.logo-type {
+  font-family: brothers, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-kerning: none;
+  color: #3c3b4d !important;
+  font-size: 2rem;
+  line-height: 140%;
+  text-transform: uppercase;
+  letter-spacing: normal;
+  margin-bottom: .3rem
+}
+
+.logo-type span {
+  display: none
+}
+
+.logo-type:after {
+  content: "HVAC";
+  display: inline
+}
+
+.ims-is-scrolled .logo-type {
+  font-size: 1.6rem
+}
+
+.services-tagline {
+  font-size: .7rem;
+  line-height: 120%;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: #eb9830;
+  color: #fff !important;
+  display: inline-block;
+  border-radius: 1rem;
+  padding: 0 1rem
+}
+
+.covid-banner {
+  background-color: #f9be0e;
+  color: #4b2a02;
+  padding: 1rem 0;
+  margin-top: 0
+}
+
+.covid-banner div p {
+  font-size: .9rem;
+  margin-bottom: 4px
+}
+
+.covid-banner div svg {
+  width: 108px;
+  margin-right: 18px
+}
+
+.covid-banner div {
+  display: flex;
+  align-items: center
+}
+
+@media screen and (min-width:570px) {
+  .ims-is-scrolled .logo-txt {
+    display: block
+  }
+}
+
+@media screen and (min-width:375px) {
+  .logo-type span {
+    display: inline
+  }
+
+  .logo-type:after {
+    display: none
+  }
+}
+
+@media screen and (min-width:375px) {
+  .services-tagline {
+    font-size: .9rem
+  }
+}
+
+@media all and (min-width:801px) {
+  .banner-slide {
+    flex-direction: row;
+  }
+
+  #container-logo {
+    position: absolute;
+    left: 50%;
+    top: 48%;
+    width: 55%;
+    -ms-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%)
+  }
+
+  .logo-type {
+    font-size: 3rem
+  }
+
+  .services-tagline {
+    font-size: 1.25rem
+  }
+
+  .ims-is-scrolled .logo-type {
+    font-size: 2rem
+  }
+
+  .ims-is-scrolled .services-tagline {
+    display: block;
+    font-size: 1.1rem
+  }
+
+  .covid-banner {
+    margin-top: 0
+  }
+}
+
+@media all and (min-width:801px) and (max-width:1025px) {
+  #container-logo {
+    left: 53.5%;
+    width: 48%
+  }
+
+  .logo-type {
+    font-size: 2.4rem
+  }
+
+  .services-tagline {
+    font-size: 1.1rem
+  }
+}
+
+@media all and (min-width:571px) and (max-width:800px) {
+  #container-logo {
+    position: absolute;
+    top: 42%;
+    left: 25%;
+    width: 50%;
+    -ms-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%)
+  }
+
+  .ims-is-scrolled .logo-type {
+    font-size: 2rem
+  }
+
+  #fixed-header .container-logo {
+    top: 25%
+  }
+}
+
+@media all and (max-width:570px) {
+  #container-logo {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4rem;
+    max-width: 375px
+  }
+
+  .logo-type {
+    font-size: 2.2rem
+  }
+}
